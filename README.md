@@ -4,6 +4,8 @@
 
 Projects from my studies at the University of Southern Denmark, covering energy modelling, optimization, electricity markets, forecasting and data analysis.
 
+Browse the selected work below, or explore all 20 academic projects in the complete index.
+
 ### Selected projects
 
 - **[Electricity Price Forecasting with Transfer Learning](https://github.com/GreneGPU/electricity-price-forecasting-thesis)** — Master thesis on Nord Pool day-ahead price forecasting, transferring hourly models to 15-minute resolution.
